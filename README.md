@@ -17,7 +17,7 @@ I used a compiler CPU provided in google colab while running this project.
 ### This model acheived training contrastive loss  of 0.3391.
 ## Prediction
 ### This image acheived a minimum distance of 27.50 which is euclidean distance .
-![Prediction]([https://github.com/tejatanush/Face-Recognition/blob/main/download%20(2).png])        
+![Prediction](https://github.com/tejatanush/Face-Recognition/blob/main/download%20(2).png)        
 ## Requirements   
 Numpy  
 Matplotlib        
